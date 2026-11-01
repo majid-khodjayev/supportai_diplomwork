@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# База данных и личные настройки
+backend/data/*.db
+backend/data/*.db-journal
+.env
+
+# Node
+node_modules/
+frontend/dist/
+*.log
+
+# Системные файлы
+.DS_Store
+Thumbs.db

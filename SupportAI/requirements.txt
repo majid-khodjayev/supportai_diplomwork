@@ -1,0 +1,6 @@
+# Python-библиотеки backend. Устанавливаются автоматически через start.bat.
+# Вручную: pip install -r requirements.txt
+fastapi>=0.115
+uvicorn>=0.30
+pydantic>=2.7
+python-dotenv>=1.0
